@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{16A93C79-23AB-4718-91A5-A4D673DE9A6A}|Default">
+  <MonoDevelop.Ide.ItemProperties.TCPServer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TCPServer/Program.cs">
+    <Files>
+      <File FileName="TCPServer/Program.cs" Line="35" Column="41" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TCPServer" expanded="True">
+            <Node name="TCPServer" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

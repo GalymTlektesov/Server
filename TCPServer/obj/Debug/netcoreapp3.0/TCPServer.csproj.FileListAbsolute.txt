@@ -1,0 +1,11 @@
+/Users/user/Projects/TCPServer/TCPServer/obj/Debug/netcoreapp3.0/TCPServer.csprojAssemblyReference.cache
+/Users/user/Projects/TCPServer/TCPServer/obj/Debug/netcoreapp3.0/TCPServer.AssemblyInfoInputs.cache
+/Users/user/Projects/TCPServer/TCPServer/obj/Debug/netcoreapp3.0/TCPServer.AssemblyInfo.cs
+/Users/user/Projects/TCPServer/TCPServer/bin/Debug/netcoreapp3.0/TCPServer
+/Users/user/Projects/TCPServer/TCPServer/bin/Debug/netcoreapp3.0/TCPServer.deps.json
+/Users/user/Projects/TCPServer/TCPServer/bin/Debug/netcoreapp3.0/TCPServer.runtimeconfig.json
+/Users/user/Projects/TCPServer/TCPServer/bin/Debug/netcoreapp3.0/TCPServer.runtimeconfig.dev.json
+/Users/user/Projects/TCPServer/TCPServer/bin/Debug/netcoreapp3.0/TCPServer.dll
+/Users/user/Projects/TCPServer/TCPServer/bin/Debug/netcoreapp3.0/TCPServer.pdb
+/Users/user/Projects/TCPServer/TCPServer/obj/Debug/netcoreapp3.0/TCPServer.dll
+/Users/user/Projects/TCPServer/TCPServer/obj/Debug/netcoreapp3.0/TCPServer.pdb
